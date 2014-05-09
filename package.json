@@ -1,0 +1,29 @@
+{
+  "name": "transformer.base32",
+  "version": "0.0.1",
+  "description": "transformer type: base32 encoding data into ascii.",
+  "main": "index.js",
+  "transformer": "transformer.jsonld",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "transformer",
+    "module",
+    "transformer-type"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "dat-transformer": "~0.1.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jbenet/transformer.base32"
+  },
+  "author": "Juan Batiz-Benet (http://github.com/jbenet)",
+  "bugs": {
+    "url": "https://github.com/jbenet/transformer.base32/issues"
+  },
+  "homepage": "https://github.com/jbenet/transformer.base32"
+}
