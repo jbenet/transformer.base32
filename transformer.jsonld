@@ -1,6 +1,6 @@
 {
  "@context": "http://transformer.io/context/transformer.jsonld",
- "type": "Type",
+ "type": "type",
  "id": "base32",
  "description": "base32 encoding data into ascii.",
  "schema": "string"
